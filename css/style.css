@@ -1,0 +1,70 @@
+/* =====common css start==== */
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+/* =====common css end==== */
+/* =====form div css start==== */
+.form{
+    width: 200px;
+    height: 80px;
+    background: #E8DFCA;
+    padding: 15px;
+    border: 1px solid pink;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input{
+   padding: 10px;
+   border-radius: 6px; 
+}
+.button{
+    padding: 10px 14px;
+    background:#94FFD8;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all linear .3s;
+}
+.button:hover{
+    background:black;
+    color: white;
+}
+/* =====form div css end==== */
+/* =====table css start==== */
+.table{
+    width: auto;
+    background:#E8DFCA;
+    padding: 10px;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.line{
+    width: auto;
+    height: 1px;
+    background: #000;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.all{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #000;
+
+}
+
+
+
+/* =====table css end ==== */
+/* =====common css start==== */
