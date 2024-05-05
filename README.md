@@ -46,4 +46,4 @@ Copy code
 
   <h1>Livelink: </h1>  https://nasrinnizam.github.io/number-multiplication-table/
 
-<h2> screenshoot:</h2> https://ibb.co/Byq6mBb
+<h2> screenshoot:</h2> <img src="https://ibb.co/Byq6mBb">
