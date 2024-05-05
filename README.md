@@ -44,7 +44,6 @@ Copy code
   ...
   5 x 12 = 60
 
-  <h1>Livelink: </h1> 
+  <h1>Livelink: </h1>  https://nasrinnizam.github.io/number-multiplication-table/
 
-
-  <h2> screenshoot:</h2> https://ibb.co/Byq6mBb
+<h2> screenshoot:</h2> https://ibb.co/Byq6mBb
