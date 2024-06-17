@@ -7,7 +7,7 @@ button.addEventListener('click' , ()=>{
         alert('please, type a number')
     }else{
         result.innerHTML = ''
-        for( let n = 1; n<21; n++){
+        for( let n = 1; n<11; n++){
             result.innerHTML += input.value + ' x ' + n + ' = ' + input.value*n + '<br>'
         }input.value = ''
     }
